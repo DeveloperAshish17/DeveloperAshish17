@@ -10,7 +10,6 @@ Knowledge of SQL DB's like SQL Server, MySQL
 
 ## 🚀 Tools & Technologies
 
-![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](<https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>)
